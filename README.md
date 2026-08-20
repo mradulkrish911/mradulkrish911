@@ -183,15 +183,33 @@ Algorithms • Problem Solving
 
 ---
 
-# 🐍 Contribution Journey
+# 🕹️ `mkrish.exe // arcade`
 
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub contribution snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+    width="100%"
+  />
+</picture>
+
+<br>
+
+<sub>Just a little arcade break between commits. 👾</sub>
 
 </div>
-
----
 
 # 🌐 Connect With Me
 
