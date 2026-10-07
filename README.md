@@ -84,7 +84,7 @@ Building strong ML fundamentals and turning concepts into practical, deployable 
 
 ### 🧠 DSA
 
-**350+ problems solved** while strengthening algorithms, data structures, recursion, backtracking, and problem solving in Java.
+**400+ problems solved** while strengthening algorithms, data structures, recursion, backtracking, and problem solving in Java.
 
 </td>
 
@@ -112,7 +112,7 @@ Learning APIs, backend development, databases, deployment, and system design fun
 
 <td align="center" width="50%">
 
-### 🧠 350+
+### 🧠 400+
 
 **DSA Problems Solved**
 
@@ -193,7 +193,7 @@ Algorithms • Problem Solving
 
 <div align="center">
 
-### `350+` DSA Problems Solved
+### `400+` DSA Problems Solved
 
 **Java**  •  **Data Structures**  •  **Algorithms**
 
