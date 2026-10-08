@@ -4,13 +4,14 @@
 
 <br>
 
-### `Machine Learning`  •  `DSA`  •  `Software Engineering`
+### `Machine Learning` • `AI Engineering` • `DSA` • `Software Engineering`
 
 <br>
 
 <a href="https://github.com/mradulkrish911">
 <img src="https://img.shields.io/badge/GitHub-mradulkrish911-181717?style=for-the-badge&logo=github">
 </a>
+
 <a href="https://www.linkedin.com/in/mradul-krishna-bhardwaj-26ab27330/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
@@ -21,35 +22,76 @@
 
 ## 🧑‍💻 `whoami`
 
-I'm **Mradul Krishna Bhardwaj**, a B.Tech Computer Science student focused on **Machine Learning, Data Structures & Algorithms, and practical software engineering**.
+I'm **Mradul Krishna Bhardwaj**, a B.Tech Computer Science student focused on **Machine Learning, AI Engineering, Data Structures & Algorithms, and practical software engineering**.
 
-I enjoy turning what I learn into things I can actually build — from solving algorithmic problems to developing machine learning applications and exploring how real-world software systems work.
+I enjoy turning what I learn into things I can actually build — from solving algorithmic problems and developing machine learning applications to designing intelligent software systems.
+
+Currently, I'm building **HYPORA**, a hypothesis-driven data science agent that explores how autonomous systems can analyze data, generate hypotheses, run experiments, learn from failures, and improve their strategies over time.
 
 > **"I don't understand this yet." → "I built something with it."**
 
-Currently working toward becoming a strong **ML + Software Engineering candidate** by combining problem solving with hands-on development.
+My goal is to become a strong **ML + Software Engineering candidate** by combining problem solving, machine learning, experimentation, and hands-on software development.
 
 ---
 
-## 🚀 Featured Project
+# 🧠 HYPORA
 
-### 🎓 Student Placement Predictor
+### Hypothesis-Driven Data Science Agent
+
+**HYPORA is my flagship project — an autonomous data science system designed to turn the traditional data science workflow into an iterative experimentation loop.**
+
+Instead of simply training a model, HYPORA aims to:
+
+**Dataset → Profile & Understand → Generate Hypotheses → Design Experiments → Train & Evaluate → Analyze Results → Learn From Failures → Improve Strategy**
+
+### 🔍 What I'm Building
+
+* 📊 Automated dataset profiling and EDA
+* 🧠 Hypothesis generation
+* 🧪 Automated ML experimentation
+* 📈 Experiment evaluation and comparison
+* 🔄 Failure-driven experimentation
+* 🧠 Experiment memory
+* 🤖 Autonomous decision-making
+* 🏗️ Modular and testable architecture
+
+### 🛠️ Built With
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Pytest` `Git` `GitHub`
+
+<div align="center">
+
+<a href="https://github.com/mradulkrish911/HYPORA">
+<img src="https://img.shields.io/badge/🧠%20Explore%20HYPORA-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+> **A long-term exploration of what happens when a data science workflow becomes an autonomous experimentation loop.**
+
+---
+
+# 🚀 Featured Project
+
+## 🎓 Student Placement Predictor
 
 **An end-to-end Machine Learning application that predicts a student's placement outcome from relevant input features.**
 
-Instead of stopping at model training, I took the project all the way from **data → preprocessing → model → application → deployment**.
+I took the project beyond model training and built the complete pipeline:
 
-#### 🔍 What I Built
+**Data → Preprocessing → Model → Evaluation → Application → Deployment**
+
+### 🔍 What I Built
 
 * 🧹 Data preprocessing and preparation
 * 📊 Exploratory data analysis
 * 🤖 Machine Learning classification model
 * 📈 Model evaluation
-* 🖥️ Interactive Streamlit web application
-* ☁️ Live cloud deployment
+* 🖥️ Interactive Streamlit application
+* ☁️ Cloud deployment
 * 🔄 Real-time predictions from user input
 
-#### 🛠️ Built With
+### 🛠️ Built With
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Streamlit`
 
@@ -61,62 +103,27 @@ Instead of stopping at model training, I took the project all the way from **dat
 
 </div>
 
-> **First deployed ML project — from learning the concepts to putting a working application online.**
+> **My first deployed ML project — taking a model from experimentation to a working application.**
 
 ---
 
-## ⚡ Current Focus
+# 🏆 Achievements
 
 <div align="center">
 
 <table>
-<tr>
 
-<td width="33%" align="center">
-
-### 🤖 Machine Learning
-
-Building strong ML fundamentals and turning concepts into practical, deployable projects.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 DSA
-
-**400+ problems solved** while strengthening algorithms, data structures, recursion, backtracking, and problem solving in Java.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏗️ Software Engineering
-
-Learning APIs, backend development, databases, deployment, and system design fundamentals.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-<table>
 <tr>
 
 <td align="center" width="50%">
 
-### 🧠 400+
+### 🥇 Amazon ML Challenge 2026
 
-**DSA Problems Solved**
+**Top ~5%**
 
-Java • Algorithms • Problem Solving
+**Ranked under 4,500 / 89,393**
+
+Machine Learning • Data Science • Model Development
 
 </td>
 
@@ -126,11 +133,124 @@ Java • Algorithms • Problem Solving
 
 **Semifinalist**
 
-Algorithms • Problem Solving
+Algorithms • Problem Solving • Competitive Challenge
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🧠 Adobe University Hackathon
+
+**Participant**
+
+AI • Software Development • Problem Solving
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧩 DSA
+
+**400+ Problems Solved**
+
+Java • Algorithms • Data Structures
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📚 Certifications
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🤖 Supervised Machine Learning
+
+**Supervised Machine Learning: Regression and Classification**
+
+DeepLearning.AI • Stanford Online • Coursera
+
+<br><br>
+
+<a href="https://coursera.org/verify/OAN01JA4V39V">
+<img src="https://img.shields.io/badge/🎓%20Verify%20Certificate-Coursera-0056D2?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 Advanced Learning Algorithms
+
+**Advanced Learning Algorithms**
+
+DeepLearning.AI • Stanford Online • Coursera
+
+<br><br>
+
+<a href="https://coursera.org/verify/N8J9H276HNZU">
+<img src="https://img.shields.io/badge/🎓%20Verify%20Certificate-Coursera-0056D2?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖 Machine Learning
+
+Deepening my understanding of supervised learning, advanced algorithms, model evaluation, and experimentation.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 DSA
+
+Strengthening algorithms, data structures, recursion, backtracking, dynamic programming, and problem solving in Java.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ AI Engineering
+
+Building HYPORA while learning how to design, test, evaluate, and evolve intelligent software systems.
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
@@ -167,24 +287,23 @@ Algorithms • Problem Solving
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
-### ☁️ Tools & Platforms
+### 🧪 Development & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
-### 🎨 Creative Tools
+### ☁️ Deployment & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 </p>
 
 ---
@@ -193,11 +312,11 @@ Algorithms • Problem Solving
 
 <div align="center">
 
-### `400+` DSA Problems Solved
+### `DSA • Algorithms • Problem Solving`
 
-**Java**  •  **Data Structures**  •  **Algorithms**
+**Java** • **Data Structures** • **Algorithms**
 
-**Recursion**  •  **Backtracking**  •  **Problem Solving**
+**Recursion** • **Backtracking** • **Dynamic Programming**
 
 <br>
 
@@ -230,21 +349,24 @@ Algorithms • Problem Solving
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph-dark.svg"
-  />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
 />
 
 <img
- src="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
- alt="Pac-Man contribution graph"
- width="100%"
-/> </picture>
+src="https://raw.githubusercontent.com/mradulkrish911/mradulkrish911/output/pacman-contribution-graph.svg"
+alt="Pac-Man contribution graph"
+width="100%"
+/>
+
+</picture>
 
 <br>
 
