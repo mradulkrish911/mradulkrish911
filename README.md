@@ -121,7 +121,7 @@ I took the project beyond model training and built the complete pipeline:
 
 **Top ~5%**
 
-**Ranked under 4,500 / 89,393**
+**Ranked under 4,500 / 89,393 participations**
 
 Machine Learning • Data Science • Model Development
 
