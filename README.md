@@ -71,7 +71,45 @@ Instead of simply training a model, HYPORA aims to:
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 🛡️ Gemini Sentinel
+
+### AI-Agent Security Intelligence & Threat Detection
+
+**A security monitoring and investigation platform designed to identify suspicious AI-agent behavior, analyze security findings, reconstruct attack chains, and support incident investigation.**
+
+Gemini Sentinel combines configurable rule-based detection with an interactive Streamlit dashboard and Google Gemini-powered incident analysis. It uses synthetic security events to demonstrate how related findings can be investigated as part of a broader attack scenario.
+
+### 🔍 What I Built
+
+* 🔎 Rule-based detection of suspicious agent behavior
+* 🛡️ Identification of tool-scope violations and missing approvals
+* 🔗 Multi-stage attack-chain investigation
+* 🤖 Gemini-powered natural-language incident analysis
+* 🚨 Incident investigation and response recommendations
+* 🧪 Synthetic security-event generation and attack simulation
+* 📊 Interactive dashboard with incident metrics and security filters
+
+### 🛠️ Built With
+
+`Python` `Streamlit` `Google Gemini API` `YAML` `JSONL` `Git` `GitHub`
+
+<div align="center">
+
+<a href="https://gemini-sentinel-6zhrw4jz66wpnnyxqz62ku.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Try%20the%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+<a href="https://github.com/mradulkrish911/Gemini-Sentinel">
+<img src="https://img.shields.io/badge/💻%20Explore%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+> **Project focus:** Moving from isolated security alerts toward contextual, explainable investigations of suspicious AI-agent activity.
+
+---
 
 ## 🎓 Student Placement Predictor
 
